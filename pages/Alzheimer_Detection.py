@@ -13,7 +13,6 @@ st.set_page_config(
 st.markdown(""" <style>
 # MainMenu {visibility: hidden;}
 # footer {visibility: hidden;}
-text-align: center; /* Center the title */
 </style> """, unsafe_allow_html=True)
 components.html(
     """
