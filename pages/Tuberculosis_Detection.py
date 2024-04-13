@@ -31,6 +31,9 @@ components.html(
         p{
             font-size: 2rem;
         }
+        .st-emotion-cache-zt5igj {
+        left: calc(1rem);
+        }
     
     """,
     height=10,
