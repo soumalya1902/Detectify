@@ -8,6 +8,10 @@ st.set_page_config(
     page_title="Detectify",
     initial_sidebar_state="auto",
 )
+st.markdown(""" <style>
+MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+</style> """, unsafe_allow_html=True)
 components.html(
     """
     <style>
