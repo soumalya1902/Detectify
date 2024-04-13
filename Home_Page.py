@@ -9,10 +9,10 @@ st.set_page_config(
 
 st.write('<style>div.row-widget.stMarkdown { font-size: 24px; }</style>', unsafe_allow_html=True)
 
-# st.markdown(""" <style>
+st.markdown(""" <style>
 # MainMenu {visibility: hidden;}
 # footer {visibility: hidden;}
-# </style> """, unsafe_allow_html=True)
+</style> """, unsafe_allow_html=True)
 components.html(
     """
     <style>
