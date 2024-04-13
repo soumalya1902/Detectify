@@ -1,0 +1,4 @@
+0 Cataract
+1 Glaucoma
+2 Negative
+3 Diabetic_Retinopathy

@@ -1,0 +1,4 @@
+0 Safe
+1 Moderate_Dementia
+2 Mild_Dementia
+3 Very_Mild_Dementia
