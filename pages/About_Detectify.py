@@ -8,7 +8,7 @@ st.set_page_config(
     initial_sidebar_state="auto",
 )
 st.markdown(""" <style>
-#MainMenu {visibility: hidden;}
+MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
 img{border-radius: 10px;}
 </style> """, unsafe_allow_html=True)
