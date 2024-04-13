@@ -11,7 +11,7 @@ st.set_page_config(
 
 
 st.markdown(""" <style>
-#MainMenu {visibility: hidden;}
+MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
 </style> """, unsafe_allow_html=True)
 components.html(
